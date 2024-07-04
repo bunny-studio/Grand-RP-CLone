@@ -1,4 +1,5 @@
-# Grand RP Clone Designed By Vipul Dalal (Bunny Studio)
+# Grand RP Clone 
+Designed by Vipul Dalal (Bunny Studio)
 
 Welcome to the Grand RP Clone project! This project aims to create a replica of the popular role-playing game (RPG) with similar features and functionalities. The goal is to provide an engaging and immersive experience for users who enjoy role-playing games.
 
