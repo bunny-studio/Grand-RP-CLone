@@ -1,5 +1,5 @@
 # Grand RP Clone 
-Designed by Vipul Dalal (Bunny Studio)
+Designed by Bunny Studio
 
 Welcome to the Grand RP Clone project! This project aims to create a replica of the popular role-playing game (RPG) with similar features and functionalities. The goal is to provide an engaging and immersive experience for users who enjoy role-playing games.
 
@@ -40,7 +40,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Name:** Vipul Dalal
+- **Name:** Bunny Studio
 - **Email:** bunnystudio.vs.com
 - **GitHub:** [Bunny Studio](https://github.com/bunny-studio)
 
